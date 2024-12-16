@@ -49,6 +49,7 @@ The following features are done [x] / planned [ ]
 - [ ] Choose/implement icon package
 - [ ] Add style guide
 - [ ] Implement features
+- [ ] Publish
 - [ ] Test and gather feedback
 - [ ] Extend with support for sharing elements with players
   - Players should access certain (parts of) maps
